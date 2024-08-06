@@ -1,0 +1,33 @@
+{
+    "Products":[
+        {
+            "id":1,
+            "name":"Iphone13",
+            "Price":"1500000"
+
+        },
+
+        {
+            "id":2,
+            "name":"Iphone14",
+            "Price":"1600000"
+
+        },
+
+        {
+            "id":3,
+            "name":"Iphone15",
+            "Price":"1800000"
+
+        },
+
+        {
+            "id":4,
+            "name":"Iphone16",
+            "Price":"2000000"
+
+        }
+
+
+    ]
+}
